@@ -1,0 +1,12 @@
+.background {
+    background-color: #0f0f0f;
+    padding: 30px 0;
+    min-height: calc(100vh - 128px);
+  }
+  .skelton {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
